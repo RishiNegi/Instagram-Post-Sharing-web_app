@@ -46,11 +46,4 @@ https://user-images.githubusercontent.com/52281814/134370975-a23aa37c-0928-458c-
 You can download It from the google play store</br>
 Try it here - http://instagram-twin.herokuapp.com/signin
 
-## Creator
-This Project was built by - 
-[<p align="left"><img alt="pawanupadhyay10" src="https://user-images.githubusercontent.com/52281814/134037647-3a61a8ae-b69c-4fa6-aaf0-cfbc657af22a.jpg" width="115"><br><sub>Rishi Negi</sub>](https://github.com/pawanupadhyay10) 
-</p>
-<p align="left"><img alt="amrita1295" width="115"><br><sub>Amrita singh jassal</sub>(https://github.com/amrita1295) 
-</p>
-|:---: |:---: |:---: 
 
